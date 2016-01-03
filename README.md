@@ -1,4 +1,4 @@
-# PrismNinjectDemo
+# Ninject for Prism for Xamarin.Forms Demo
 
 Demo project for my blog post on using [Ninject with Prism for Xamarin Forms](http://www.alteridem.net/2016/01/03/using-ninject-for-prism-for-xamarin-forms/).
 
